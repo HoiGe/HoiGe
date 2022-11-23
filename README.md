@@ -1,4 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoige)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoige&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![:HoiGe](https://count.getloli.com/get/@HoiGe?theme=rule34)
